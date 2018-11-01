@@ -12,7 +12,7 @@ import com.google.android.gms.location.DetectedActivity
 
 
 class MainActivity : AppCompatActivity() {
-
+//
     private var pendingIntent: PendingIntent? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
